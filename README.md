@@ -1,10 +1,17 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
+#NAME:A.SARANRAJ
+
+#REGISTER NO:25018567
 
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
 
 **APPARATUS REQUIRED:**
+
+<img width="347" height="313" alt="image" src="https://github.com/user-attachments/assets/14c7b70d-944e-48b0-9c7f-900bc8c4b82c" />
+
+
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 2.	Voltmeter	(0-30 V) MC	1
@@ -26,18 +33,25 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+<img width="543" height="290" alt="image" src="https://github.com/user-attachments/assets/cfe5f8d1-24b2-4482-bc72-3106e94b9c6a" />
+
+
 
 **To measure RTh or RN**
 
+<img width="502" height="165" alt="image" src="https://github.com/user-attachments/assets/43c07e2f-3360-42a3-8fd5-cead54299869" />
 
 
 **To measure IN or Isc**
 
- 
-**Thevenin’s equivalent circuit**
+
+ <img width="543" height="223" alt="image" src="https://github.com/user-attachments/assets/3738a36c-a452-425a-ac9f-81fe53f68f1d" />
+
+
 
 
 **Norton’s equivalent circuit**
+<img width="375" height="220" alt="image" src="https://github.com/user-attachments/assets/6808b22e-f8ab-4720-9a40-2bac68cb9cd5" />
 
 
 **PROCEDURE:**
@@ -72,14 +86,15 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+<img width="239" height="120" alt="image" src="https://github.com/user-attachments/assets/61f45660-ada1-4827-883d-910660ad0ceb" />
 
-Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
 Vi (volts)	RTh (Ω)
+<img width="215" height="102" alt="image" src="https://github.com/user-attachments/assets/06d09dbe-56e0-4fba-a58f-d5895aa28a9d" />
 
 
 **TABULAR COLUMN:3**
@@ -87,6 +102,9 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
+<img width="243" height="127" alt="image" src="https://github.com/user-attachments/assets/a2a59737-bf5b-44ad-bf3c-95bf5390a7bc" />
+
+
 	
 **MODEL CALCULATION:**
 
@@ -99,7 +117,16 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
 
+\
+
+<img width="400" height="628" alt="image" src="https://github.com/user-attachments/assets/f21d72e8-1212-4f6a-a44b-938d48afe7d1" />
+
+<img width="368" height="423" alt="image" src="https://github.com/user-attachments/assets/0f176b37-156a-4528-b0c0-ed31016a5a49" />
 
 **RESULT:**
+
+
+
+<img width="334" height="380" alt="image" src="https://github.com/user-attachments/assets/b34f4d8c-5c0b-4cca-8d58-af1492812f9f" />
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
